@@ -1,6 +1,6 @@
 package com.teachmeskills.Lesson9_HW;
 
-public class Ranner { public static void main(String[] args) {
+public class Runner { public static void main(String[] args) {
     boolean UserAut = false;
     try {
         UserAut = ValidatorPasswordLogin.verificationPassLog("hyjhvgjgf", "qwe123qwe","qwe1223qwe");
